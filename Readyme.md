@@ -1,3 +1,5 @@
 #Git Course
 
-Arquivo da aula de Git
+Este é um repositório teste para ensinar como o Git funciona.
+
+Saiba mais em .com.br
